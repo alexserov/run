@@ -1,6 +1,6 @@
 ## Installation
    
-npm i -g https://github.com/alexserov/run
+`npm i -g https://github.com/alexserov/run`
 
 ## Usage
 
