@@ -1,0 +1,24 @@
+{
+  "name": "run",
+  "version": "1.0.0",
+  "description": "\"# run\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexserov/run.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexserov/run/issues"
+  },
+  "homepage": "https://github.com/alexserov/run#readme",
+  "devDependencies": {
+    "inquirer": "^8.1.0",
+    "inquirer-search-list": "^1.2.6"
+  }
+}
